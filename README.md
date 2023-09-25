@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://giphy.com/clips/leroypatterson-roku-the-channel-bad-ideas-DHCwGhM8IwzjtbkoXk" width="300"/>
+    <img src="https://media.giphy.com/media/KV4tDTYL7kUQo/giphy.gif" width="300"/>
     <div id="badges" align='center'>
         <a href="http://linkedin.com/in/farivar-amiri-458273198">
             <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
