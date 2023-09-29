@@ -10,8 +10,8 @@
         <a href="https://wellfound.com/u/farivar-amiri">
             <img src="https://img.shields.io/badge/Wellfound-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" alt="Wellfound Badge"/>
         </a>
-        <a hret="https://farivar-amiri.com/">
-            <img src="https://img.shields.io/badge/Wellfound-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" alt="Wellfound Badge"/>
+        <a href="https://farivar-amiri.com/">
+            <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=book&logoColor=black" alt="Portfolio Badge"/>        
         </a>
     </div>
 </div>
