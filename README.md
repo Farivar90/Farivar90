@@ -17,7 +17,9 @@
 
 <h1 align='center'>Hello, I'm Farivar Amiri!</h1>
 
-I'm a Full Stack Developer and Software Engineer from Walnut Creek, CA, proficient in React.js, Redux, JavaScript, Ruby on Rails, Node.js, and many other technologies.
+I'm a Full Stack Developer and Software Engineer from Walnut Creek, CA. I specialize in React.js, Redux, JavaScript, Ruby on Rails, Node.js, and various other technologies.
+
+Here are some of my standout projects:
 
 - **VelvetVenues**: A luxurious platform that facilitates users in purchasing and selling upscale properties. Key features include enhanced user authentication, seamless property search via AWS, D3, and Google Maps integration, and advanced search capabilities.
 - **BudgetBuddy**: An intuitive finance application, I led a dynamic team in developing this tool to help users track income, expenses, and budgeting.
@@ -27,9 +29,9 @@ Apart from software development, I have rich experiences in various fields:
 - Played a pivotal role as a business partner in an import car parts company.
 - Accumulated 14 years of expertise as a professional trader in Forex and Stocks.
 
-When I am free, I usually read books, cook something new, or fix something. I can repair electronic devices, do carpentry, and work on cars (I was a drift racer when I was younger and I built a car almost by myself).
+In my free time, I enjoy reading, experimenting with recipes, or tinkering with things. I've fixed electronics, crafted carpentry projects, and have even worked on cars. Fun fact: I built a car mostly on my own and used to be a drift racer!
 
-I am open to collaborations and software development opportunities. Feel free to get in touch!
+If you're interested in teaming up or discussing potential opportunities, please reach out!
 
 ---
 
