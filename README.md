@@ -65,7 +65,7 @@ In my free time, I enjoy reading, experimenting with recipes, or tinkering with 
 
 <div align="center">
     <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=Farivar90&theme=ocean-gradient" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=Farivar90&theme=sunset-gradient&border_radius=150" alt="GitHub Streak" />
     </a>
     <hr>
     <a href="https://github.com/anuraghazra/github-readme-stats">
