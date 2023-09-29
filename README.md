@@ -27,6 +27,8 @@ Apart from software development, I have rich experiences in various fields:
 - Played a pivotal role as a business partner in an import car parts company.
 - Accumulated 14 years of expertise as a professional trader in Forex and Stocks.
 
+When I am free, I usually read books, cook something new, or fix something. I can repair electronic devices, do carpentry, and work on cars (I was a drift racer when I was younger and I built a car almost by myself).
+
 I am open to collaborations and software development opportunities. Feel free to get in touch!
 
 ---
