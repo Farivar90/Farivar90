@@ -18,7 +18,6 @@
 
 ---
 
-
 <h1 align='center'>Hello, I'm Farivar Amiri!</h1>
 
 I'm a Full Stack Developer and Software Engineer from Walnut Creek, CA. I specialize in React.js, Redux, JavaScript, Ruby on Rails, Node.js, and various other technologies.
