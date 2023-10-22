@@ -75,8 +75,3 @@ In my free time, I enjoy reading, experimenting with recipes, or tinkering with 
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farivar90&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
     </a>
 </div>
-
-
-
-
-
