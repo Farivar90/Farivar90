@@ -22,15 +22,7 @@
 
 I'm a Full Stack Developer and Software Engineer from Walnut Creek, CA. I specialize in React.js, Redux, JavaScript, Ruby on Rails, Node.js, and various other technologies.
 
-## Here are some of my standout projects:
 
-- **VelvetVenues**: A luxurious platform that facilitates users in purchasing and selling upscale properties. Key features include enhanced user authentication, seamless property search via AWS, D3, and Google Maps integration, and advanced search capabilities.
-- **BudgetBuddy**: An intuitive finance application, I led a dynamic team in developing this tool to help users track income, expenses, and budgeting.
-
-## Apart from software development, I have rich experiences in various fields:
-- Managed a restaurant/cafe, ensuring quality services and customer satisfaction.
-- Played a pivotal role as a business partner in an import car parts company.
-- Accumulated 14 years of expertise as a professional trader in Forex and Stocks.
 
 In my free time, I enjoy reading, experimenting with recipes, or tinkering with things. I've fixed electronics, crafted carpentry projects, and have even worked on cars. Fun fact: I built a car mostly on my own and used to be a drift racer!
 
@@ -41,7 +33,7 @@ In my free time, I enjoy reading, experimenting with recipes, or tinkering with 
 #### Nazloo University, Urmia, Iran
 - Degree: Bachelor of Atomic Physics
 #### Tehran-Markaz University, Tehran, Iran
-- Program: Master of Electronic Engineering (Bachelor achieved)
+- Program: Bachelor of Electronic Engineering
 
 ---
 
